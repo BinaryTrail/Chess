@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d1a136c-1952-4bc7-9c1f-81c80a48e026" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Chess.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Bishop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/King.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Pawn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Piece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pieces/Rook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Move.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pieces/Piece.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pieces/Piece.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Board.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sgD5sGrLzxthvxqR841JDgV738" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,7 +40,8 @@
     "Python.Board.executor": "Run",
     "Python.run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ufold/PycharmProjects/Chess"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,8 +54,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (Chess)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
@@ -100,5 +86,16 @@
       <updated>1738868143905</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -132,7 +132,7 @@ class Board:
                     elif self.board[i][j] in self.player2.placed_pieces:
                         row += f"{self.player2.player_color}{self.board[i][j].icon}{self.RESET_COLOR}"
                     else:
-                        return None # Error! - Implement exception?
+                        pass # Error! - Implement exception?
 
                     row += " "
                 else:

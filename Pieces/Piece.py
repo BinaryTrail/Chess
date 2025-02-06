@@ -4,4 +4,4 @@ class Piece:
         self.position = pos
 
     def getPossibleMoves(self):
-        pass
+        return []
