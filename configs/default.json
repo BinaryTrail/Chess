@@ -1,0 +1,108 @@
+{
+  "color": {
+    "black": "30",
+    "red": "31",
+    "green": "32",
+    "yellow": "33",
+    "blue": "34",
+    "magenta": "35",
+    "cyan": "36",
+    "light-grey": "37",
+    "dark-grey": "90",
+    "bright-red": "91",
+    "bright-green": "92",
+    "bright-yellow": "93",
+    "bright-blue": "94",
+    "bright-magenta": "95",
+    "bright-cyan": "96",
+    "white": "97",
+    "RESET": "0"
+  },
+  "display": {
+    "white-color": "white",
+    "black-color": "dark-grey",
+
+    "board": {
+      "container-color": "white",
+      "grid-color": "white",
+      "header-border-color": "white",
+      "header-index-color": "white",
+      "symbols": {
+        "header-left": "╭",
+        "header-right": "╮",
+        "header-seperator": "─",
+
+        "sidebar-top": "╭",
+        "sidebar-bottom": "╰",
+        "sidebar-connector": "─",
+        "sidebar-seperator": "│",
+
+        "border-top-left":"╔",
+        "border-top-right":"╗",
+        "border-bottom-left":"╚",
+        "border-bottom-right":"╝",
+        "border-top-connected":"╤",
+        "border-top-disconnected":"═",
+        "border-bottom-connected":"╧",
+        "border-bottom-disconnected":"═",
+        "border-left-connected": "╟",
+        "border-left-disconnected": "║",
+        "border-right-connected": "╢",
+        "border-right-disconnected": "║",
+
+        "grid-intersection": "┼",
+        "grid-horizontal": "─",
+        "grid-vertical": "│"
+      }
+    },
+    "move-history": {
+      "title-color": "white",
+      "subtext-color": "white",
+      "container-color": "white",
+      "grid-color": "white",
+      "symbols": {
+        "border-top-left": "╔",
+        "border-top-right": "╗",
+        "border-bottom-left": "╚",
+        "border-bottom-right": "╝",
+
+        "border-top-connected": "═",
+        "border-top-disconnected": "═",
+        "border-bottom-connected": "╧",
+        "border-bottom-disconnected": "═",
+
+        "border-left-connected": "╟",
+        "border-left-disconnected": "║",
+        "border-right-connected": "╢",
+        "border-right-disconnected": "║",
+
+        "grid-horizontal": "─",
+        "grid-vertical": "│",
+        "grid-intersection": "┬"
+      }
+    },
+    "bench": {
+      "title-color": "white",
+      "container-color": "white",
+      "grid-color": "white",
+      "symbols": {
+        "border-top-left": "╔",
+        "border-top-right": "╗",
+        "border-bottom-left": "╚",
+        "border-bottom-right": "╝",
+
+        "border-top-connected": "═",
+        "border-top-disconnected": "═",
+        "border-bottom-connected": "═",
+        "border-bottom-disconnected": "═",
+
+        "border-left-connected": "╟",
+        "border-left-disconnected": "║",
+        "border-right-connected": "╢",
+        "border-right-disconnected": "║",
+
+        "grid-horizontal": "─"
+      }
+    }
+  }
+}

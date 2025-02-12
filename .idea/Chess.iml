@@ -12,6 +12,7 @@
       <list>
         <option value="$MODULE_DIR$/utils" />
         <option value="$MODULE_DIR$/Pieces" />
+        <option value="$MODULE_DIR$/configs" />
       </list>
     </option>
   </component>

@@ -1,7 +1,7 @@
 class Player:
-    def __init__(self, player_type, player_color):
+    def __init__(self, player_type, color_code):
         self.player_type = player_type
-        self.player_color = player_color
+        self.color_code = color_code
         self.benched_pieces = []
         self.placed_pieces = []
 

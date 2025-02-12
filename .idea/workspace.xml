@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d1a136c-1952-4bc7-9c1f-81c80a48e026" name="Changes" comment="">
+    <list default="true" id="6d1a136c-1952-4bc7-9c1f-81c80a48e026" name="Changes" comment="~ Repaired batch script&#10;- Piece shouldn't have any possible moves, returns []&#10;+ Marked a possible error to correct">
+      <change afterPath="$PROJECT_DIR$/Pieces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Chess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Chess.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pieces/Piece.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pieces/Piece.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Move.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Board.executor": "Run",
-    "Python.run.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ufold/PycharmProjects/Chess"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Board.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ufold/PycharmProjects/Chess&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Chess" />
@@ -85,6 +89,15 @@
       <option name="presentableId" value="Default" />
       <updated>1738868143905</updated>
     </task>
+    <task id="LOCAL-00001" summary="~ Repaired batch script&#10;- Piece shouldn't have any possible moves, returns []&#10;+ Marked a possible error to correct">
+      <option name="closed" value="true" />
+      <created>1738878010898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738878010898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="~ Repaired batch script&#10;- Piece shouldn't have any possible moves, returns []&#10;+ Marked a possible error to correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="~ Repaired batch script&#10;- Piece shouldn't have any possible moves, returns []&#10;+ Marked a possible error to correct" />
   </component>
 </project>

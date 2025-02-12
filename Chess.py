@@ -1,4 +1,7 @@
+import json
+
 from utils.Board import Board
+from utils.Move import Move
 
 
 class Chess:
@@ -8,10 +11,5 @@ class Chess:
 
 
     def play(self):
-        board = Board()
 
-        display = board.buildBoardDisplay()
-        for row in display:
-            print(row)
-
-        return None
+        pass
